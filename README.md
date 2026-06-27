@@ -16,3 +16,5 @@ A robust Windows desktop application built with **C# (.NET WinForms)** and **SQL
 
 ## 🧠 Architectural Highlights
 The application separates the internal `Car` data model from the UI presentation layer. Database connections and SQL executions are handled via an independent `SQLiteManager` class, ensuring clean code structure and minimizing SQL injection risks during data updates. 
+<img width="830" height="513" alt="Screenshot 2026-06-27 140005" src="https://github.com/user-attachments/assets/fb35450d-4650-4697-84a4-71ff0ee6d9cc" />
+<img width="689" height="416" alt="Screenshot 2026-06-27 140503" src="https://github.com/user-attachments/assets/9bb2f48b-1df2-494f-80dd-74e657ba7a90" />
